@@ -8,7 +8,11 @@ public class Classone {
         System.out.println("hi");
 
 
+
         System.out.println("hello  hello");
+
+        System.out.println("hello heoooo");
+
 
     }
 }
